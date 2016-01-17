@@ -1,0 +1,80 @@
+body.skelly-io {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+.left {
+	height: 100%;
+	float: left;
+	width: 300px;
+	background: #1d0040;
+	background: url('https://images.unsplash.com/photo-1439337153520-7082a56a81f4?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=49ee5f06b4ac4dcf6d4af92aa66a1c16');
+
+	/*-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;*/
+	background-size: cover;
+
+}
+
+.left .gradient {
+	height: 100%;
+	width: 100%;
+
+
+
+}
+
+.main {
+	padding: 100px;
+	float: left;
+}
+
+.logo-holder {
+	position:relative;
+	bottom: -100px;
+	width: 100%;
+	padding: 10px;
+	background: rgba(100,100,100,0.8);
+	font-family: Rubik, sans-serif;
+	font-weight: 600;
+	font-size: 30pt;
+	letter-spacing: -3px;
+	text-align: center;
+	color: black;
+
+}
+
+.logo-holder .l {
+	letter-spacing: -8px;
+
+}
+
+.logo-holder .y {
+	letter-spacing: -5px;
+
+}
+
+.logo-holder .io {
+	font-size: 28pt;
+	font-weight: 400;
+	letter-spacing: -2px;
+}
+
+.profile-head{
+    max-width: 100px;
+    margin-top: -70px;
+    margin-bottom: 5px;
+    border: 3px solid #fff;
+    border-radius: 100%;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.logo-holder img {
+
+	position: ;
+
+}
+
