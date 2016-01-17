@@ -1,0 +1,7 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+.post-content h1 {
+	margin-top: 50px;
+}
