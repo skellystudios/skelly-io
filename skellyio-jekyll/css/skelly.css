@@ -21,6 +21,7 @@ h1 {
 	/*-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;*/
 	background-size: cover;
+	position: fixed;
 
 }
 
@@ -29,6 +30,7 @@ h1 {
   and (min-device-width: 0px) 
   and (max-device-width: 480px){
   	.left{ 
+  	  position: initial;
 	  width:100%;
 	  height: 200px;
 	}
@@ -44,9 +46,10 @@ h1 {
 }
 
 .main {
+	margin-left: 300px;
 	padding: 100px;
 	float: left;
-	width: 950px;
+	max-width: 980px;
 }
 
 .logo-holder {
@@ -62,6 +65,10 @@ h1 {
 	text-align: center;
 	color: black;
 
+}
+
+a.no-underline {
+	text-decoration: none;
 }
 
 .logo-holder .l {
