@@ -1,20 +1,10 @@
-<!DOCTYPE html>
-<html>
+<html><title = "!!! skelly.io"></title>
 
-  {% include head.html %}
+{% include header.html %}
 
-  <body>
+<body class="skelly-io">
+{% include sidebar.html %}
+<div class="main container-fluid">
+  {{ content }}
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+</div>
