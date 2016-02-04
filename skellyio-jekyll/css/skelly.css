@@ -17,10 +17,11 @@ h1 {
 	width: 300px;j
 	background: #1d0040;
 	/*background: url('https://images.unsplash.com/photo-1439337153520-7082a56a81f4?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=49ee5f06b4ac4dcf6d4af92aa66a1c16');*/
-	background: url('http://7-themes.com/data_images/out/58/6968307-autumn-background.jpg');
-	/*-webkit-background-clip: text;
+	/*background: url('http://7-themes.com/data_images/out/58/6968307-autumn-background.jpg');*/	/*-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;*/
+    background-image: url('../images/bg_typewriter.jpg');
 	background-size: cover;
+	background-position: center;
 	position: fixed;
 
 }
@@ -57,7 +58,7 @@ h1 {
 	bottom: -100px;
 	width: 100%;
 	padding: 10px;
-	background: rgba(100,100,100,0.8);
+	background: rgba(80,100,100,0.8);
 	font-family: Rubik, sans-serif;
 	font-weight: 600;
 	font-size: 28pt;
