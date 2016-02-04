@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Five Whys of Incident Analysis"
-date:   2016-01-17 18:39:51 +0000
+date:   2016-02-04 22:39:51 +0000
 categories: technology
 sidebar-image: https://images.unsplash.com/photo-1436915947297-3a94186c8133?crop=entropy&fit=crop&fm=jpg&h=925&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1025
 photo-credit: "Aaron Burden - www.aaronburden.com"
