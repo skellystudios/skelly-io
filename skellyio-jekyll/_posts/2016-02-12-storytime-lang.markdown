@@ -5,6 +5,7 @@ date:   2016-02-12 07:39:51 +0000
 categories: technology
 sidebar-image: https://images.unsplash.com/photo-1447069387593-a5de0862481e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=0dab06e522cf4cd96ee75e9801e73c8a
 photo-credit: "Joanna Kosinska - www.joannakosinska.com"
+draft: true
 ---
 
 

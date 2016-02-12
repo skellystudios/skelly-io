@@ -27,10 +27,10 @@ h1 {
 }
 
 /* mobile */
-@media screen 
-  and (min-device-width: 0px) 
+@media screen
+  and (min-device-width: 0px)
   and (max-device-width: 480px){
-  	.left{ 
+  	.left{
   	  position: initial;
 	  width:100%;
 	  height: 200px;
@@ -121,4 +121,12 @@ a.no-underline {
 	margin-left: 7px;
 	font-size: 10pt;
 	line-height: 24pt;
+}
+
+.category-section .draft {
+	margin-left: 4px;
+	font-size: 8pt;
+	line-height: 24pt;
+	text-transform: uppercase;
+	color: #f33;
 }
