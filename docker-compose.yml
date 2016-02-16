@@ -1,0 +1,6 @@
+skellyio-jekyll:
+  build: .
+  volumes:
+    - ./skellyio-jekyll:/srv/jekyll
+  ports:
+    - "4000:4000"
