@@ -8,9 +8,9 @@ photo-credit: "Joanna Kosinska - www.joannakosinska.com"
 ---
 
 
-At the weekend I attended [Banterhack 2016](http://banterhack.com/), an amazing hackathon run by my friend and esteemed colleague Manoj. Banterhack is, as far as I can tell, a reaction to the swathes of hackathons that have big name corporate sponsors who judge entries and give our appealing prizes and even more appealing chances to work for them. What that means is that people chase the "dream" of winning a 3D printed Oculus Leap Nest with the BarclaySachsWaterhouseCooper Prize for Innovation, and don't make cool shit any more. In contrast, I was one of the sponsors of Banterhack, where we gave  [these](http://www.amazon.co.uk/gp/product/B00KARD0D2) terrible China clone iWatches as top prize. My judging criteria was maximum ratio of high cool to low commercial viability.
+At the weekend I attended [Banterhack 2016](http://banterhack.com/), an amazing hackathon run by my friend and esteemed colleague Manoj. Banterhack is, as far as I can tell, a reaction to the swathes of hackathons that have big name corporate sponsors who judge entries and give out appealing prizes and even more appealing chances to work for them. What that means is that people chase the "dream" of winning a 3D printed Oculus Leap Nest with the BarclaySachsWaterhouseCooper Prize for Innovation, and don't make cool shit any more. In contrast, I was one of the sponsors of Banterhack, where we gave [these](http://www.amazon.co.uk/gp/product/B00KARD0D2) terrible China clone iWatches as top prize. My main judging criterion was maximum ratio of high cool to low commercial viability.
 
-Keeping within the spirit of Banterhack, I wanted to create something fairly cool, but with basically zero practical application. Thus, StoryTime (name pending potential rethink) was born.
+Keeping within the spirit of Banterhack, I wanted to create something fairly cool, but with basically zero practical application. Thus, StoryTime (potential name rethink pending) was born.
 
 ---
 
@@ -21,13 +21,13 @@ Keeping within the spirit of Banterhack, I wanted to create something fairly coo
 >
 > Prints the first 20 fibonacci numbers
 
-StoryTime is a language whose aim is to be easily writable by a human programmer, but also easily mistook for valid semantic English. The idea came from the concept of [steganography](https://en.wikipedia.org/wiki/Steganography) (security by obscurity, often hiding a secret inside something innocuous, not to be confused with [stenography] (https://en.wikipedia.org/wiki/Stenography), which is the art of being able to write something so quickly it's instantly unreadable).
+StoryTime is a language whose aim is to be easily writable by a human programmer, but also easily mistook for valid semantic English. The idea came from the concept of [steganography](https://en.wikipedia.org/wiki/Steganography) (security by obscurity, often hiding a secret inside something innocuous, not to be confused with [stenography](https://en.wikipedia.org/wiki/Stenography), which is the art of being able to write something so quickly it's instantly unreadable).
 
 I actually had three criteria in mind while making this:
 
 - It should be possible to construct programs by hand
 - The program should look and read like valid English
-- The program should surprise and delight (shock and awe) even those who know it's a program, by being non-obvious how the program's function came from its structure.
+- The program should surprise and delight (shock and awe) even those who know it's a program, by being non-obvious how the program's function came from its structure
 
 That last rule was pretty useful in making decisions about how to structure the language, because it ruled out doing things in the way other natural language-esque esolangs do, e.g. [~English](https://esolangs.org/wiki/~English).
 
