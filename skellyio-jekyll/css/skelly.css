@@ -28,12 +28,11 @@ h1 {
 
 /* mobile */
 @media screen
-  and (min-device-width: 0px)
   and (max-device-width: 480px){
   	.left{
   	  position: initial;
 	  width:100%;
-	  height: 200px;
+	  height: 280px;
 	}
 }
 
@@ -51,6 +50,16 @@ h1 {
 	padding: 100px;
 	float: left;
 	max-width: 980px;
+}
+
+
+/* mobile */
+@media screen
+  and (max-device-width: 480px){
+
+		.main {
+			margin-left: 0px;
+		}
 }
 
 .logo-holder {
@@ -95,6 +104,30 @@ a.no-underline {
     border: 3px solid #fff;
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+/* mobile */
+@media screen
+  and (max-device-width: 480px){
+
+		.profile-head {
+			max-width: 160px;
+		}
+
+
+		.logo-holder {
+			font-size: 33pt;
+		}
+
+
+		.logo-holder .io {
+			font-size: 30pt;
+		}
+
+		pre.highlight {
+    	font-size: 1.6em;
+		}
+
 }
 
 .logo-holder img {
