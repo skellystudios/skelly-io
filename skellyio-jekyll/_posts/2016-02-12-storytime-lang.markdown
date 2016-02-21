@@ -61,7 +61,7 @@ Variables can hold either string or integer values at a given time.
 
 ### Printing
 
-The verb `said` represents printing to the console. Other conjugations of the verb are valid, and they don't need to make grammatical sense in the sentence (although that's the fun of it),
+The verb `said` represents printing to the console. Other conjugations of the verb are valid, and they don't need to make grammatical sense in the sentence (although that's the fun of it).
 
 A variable followed by a `said` and then a quoted string will print the value of the string, as well as returning that as the expression's value.
 
@@ -118,7 +118,7 @@ Making the parser in `Parsec` was a real pleasure. I know it's no longer the [mo
 
 I actually parse in two stages, once to roughly tokenize, and once to try to make sense of what's a pretty ambiguous grammar. For that second stage I already have a stream of tokens, and would have ideally used parsec a second time, but since there were Nerf bullets flying inches from my nose, I decided to stop combing through the documentation and LIVE A LITTLE. So I basically coded it by hand and now probably regret that.
 
-The evaluation uses the StateT monad to handle "the environment". It's the first time I've used a monad transform in anything other than a pet example, and it was great. I've read some great stuff about combining them with the Free monad in order to get true monadic composability.  
+The evaluation uses the StateT monad to handle "the environment". It's the first time I've used a [monad transform](http://book.realworldhaskell.org/read/monad-transformers.html) in anything other than a pet example, and it was great. I've read some great stuff about combining them with the Free monad in order to get true monadic composability.  
 
 
 # Future Development
@@ -131,8 +131,9 @@ I was thinking one obvious thing would be to make them modify the instantiation 
 
 ### Time travel
 
-It would be nice if you could use methods etc. before they're defined, or even better, use future "facts" about
+It would be nice if you could use methods etc. before they're defined, or even better, use future "facts" to influence the computation before the reader gets to them. Anthony introduced me to the
+[Tardis Monad](https://hackage.haskell.org/package/tardis-0.3.0.0/docs/Control-Monad-Tardis.html), which basically allows state to flow forwards and backwards within an execution frame. I'd love to find a place to use it, and this feels like it could be good. But is this within the spirit of being "highly obfuscated" or is this just being "too fucking confusing to actually use"? Who knows.  
 
 ### Attributes
 
-Something like `Sally's age` or `Obama's birth certificate` could actually refer to valued properties. This would make it fairly object oriented – my worry with this is that it might move the semantics too close to just describing the world, rather than highly obfuscated program.
+Something like `Sally's age` or `Obama's birth certificate` could actually refer to valued properties. This would make it fairly object oriented – my worry with this is that it might move the semantics too close to just describing the world, rather than highly obfuscated programming.
