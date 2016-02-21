@@ -92,10 +92,10 @@ Method declaration is of the form:
 
 And is used as it would be in valid english:
 
-   > I foo. You foo. The horse foos.
-   1
-   3
-   5
+    > I foo. You foo. The horse foos.
+    1
+    3
+    5
 
 Methods currently take a single argument, which must be a variable, which binds to "someone", as well as "they", "their" and "them". Other variables are resolved to whatever exists in the environment at the time (i.e. not bound into a closure).
 
