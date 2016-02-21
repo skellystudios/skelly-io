@@ -19,7 +19,7 @@ Keeping within the spirit of Banterhack, I wanted to create something fairly coo
      A republican hears the democrat say nothing and the democrat hears the republican say wise things. Campaigning is where someone says promises they can't keep and the democrat hears them and they listen to the republican and the republican hears the democrat. I always campaign.
 
 >
-> Prints the first 20 fibonacci numbers
+> This is a valid program in StoryTime lang. Running it prints the first 20 fibonacci numbers
 
 StoryTime is a language whose aim is to be easily writable by a human programmer, but also easily mistook for valid semantic English. The idea came from the concept of [steganography](https://en.wikipedia.org/wiki/Steganography) (security by obscurity, often hiding a secret inside something innocuous, not to be confused with [stenography](https://en.wikipedia.org/wiki/Stenography), which is the art of being able to write something so quickly it's instantly unreadable).
 
@@ -38,7 +38,7 @@ That last rule was pretty useful in making decisions about how to structure the 
 
 ### Basics
 
-A storylang program is a series of sentences. Sentences are separated by full-stops `.` (translation for America English: periods). All 'statements' (liguistically equivalent to clauses) are expressions: every statement returns a value.
+A storylang program is a series of sentences. Sentences are separated by full-stops `.` (translation for American English: periods). All 'statements' (linguistically equivalent to clauses) are expressions: every statement returns a value.
 
 
 ### Variables
