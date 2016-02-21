@@ -110,6 +110,15 @@ Actually, now I think about it, I don't really know what method declaration retu
 The thing is interpreted, but is flakey as hell. Syntax errors, access errors, etc. will all basically just cause a runtime error. Needless to say, you shouldn't run this anywhere near production, because that would be like letting a kid with a toy stethoscope perform heart surgery.
 
 
+# Building It
+
+Making the parser in `Parsec` was a real pleasure. I know it's no longer the [most fashionable](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md#compilers), but it definitely did the job.
+
+I actually parse in two stages, once to roughly tokenize, and once to try to make sense of what's a pretty ambiguous grammar. For that second stage I already have a stream of tokens, and would have ideally used parsec a second time, but since there were Nerf bullets flying inches from my nose, I decided to stop combing through the documentation and LIVE A LITTLE. So I basically coded it by hand and now probably regret that.
+
+The evaluation uses the StateT monad to handle "the environment". It's the first time I've used a monad transform in anything other than a pet example, and it was great. I've read some great stuff about combining them with the Free monad in order to get true monadic composability.  
+
+
 # Future Development
 
 ### Modifiers
