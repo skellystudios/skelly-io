@@ -7,6 +7,10 @@ sidebar-image: https://images.unsplash.com/photo-1447069387593-a5de0862481e?ixli
 photo-credit: "Joanna Kosinska - www.joannakosinska.com"
 ---
 
+<iframe src="https://ghbtns.com/github-btn.html?user=skellystudios&repo=storytime-lang&type=star&count=true&size=medium" frameborder="0" scrolling="0" width="100px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=skellystudios&type=follow&count=true&size=medium" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
+
 
 At the weekend I attended [Banterhack 2016](http://banterhack.com/), an amazing hackathon run by my friend and esteemed colleague Manoj. Banterhack is, as far as I can tell, a reaction to the swathes of hackathons that have big name corporate sponsors who judge entries and give out appealing prizes and even more appealing chances to work for them. What that means is that people chase the "dream" of winning a 3D printed Oculus Leap Nest with the BarclaySachsWaterhouseCooper Prize for Innovation, and don't make cool shit any more. In contrast, I was one of the sponsors of Banterhack, where we gave [these](http://www.amazon.co.uk/gp/product/B00KARD0D2) terrible China clone iWatches as top prize. My main judging criterion was maximum ratio of high cool to low commercial viability.
 

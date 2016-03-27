@@ -24,7 +24,12 @@ layout: default
       <div class="col-md-6">
         <div class="category-section">
           <h1>Miscellanea</h1>
-        <p> No content here yet. I guess I've just got a one track mind</p>
+          {% for post in site.categories.miscellanea %}
+          {% if post.hide == null %}
+           <p> <a href="{{ post.url }}">{{ post.title }}</a>{% if post.draft %}<span class="draft">Draft</span>{% endif %}
+             <span class="posted-date">{{ post.date | date: '%d/%m/%Y' }}</span></p>
+           {% endif %}
+          {% endfor %}
       </div>
 
       </div>
