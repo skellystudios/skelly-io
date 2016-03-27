@@ -8,12 +8,12 @@ photo-credit: "Dikaseva - dikaseva.com"
 ---
 
 
-If you've come to this page, you're probably really eager to read the my list of the best scales of measure (in my opinion). But I urge you to be patient for a few more paragraphs and instead indulge me for a bit while I explain how I've worked out my criteria for inclusion.
+If you've come to this page, you're probably really eager to read my list of the best scales of measure. I urge you to be patient for a few more paragraphs and instead indulge me for a bit while I explain how I've worked out my criteria for inclusion.
 
 
 ## Methodology
 
-Stanley Stevens published a paper called [On the Theory of Scales of Measurement](http://www.mpopa.ro/statistica_licenta/Stevens_Measurement.pdf). which provides a wonderful typology of different scales. He largely broke scales down into *Nominal*, which are generally classifications, like biological taxa, film genre or nationality; *Ordinal*, which are sorted scales that don't express a meaningful mathematical relationship, like the colours of the rainbow; and then *Interval* and *Ratio*, which are both numerical scales which either don't have or have a meaningful zero value respectively, e.g. Degrees Celsius vs Degrees Kelvin.
+Stanley Stevens published a paper called [On the Theory of Scales of Measurement](http://www.mpopa.ro/statistica_licenta/Stevens_Measurement.pdf). which provides a wonderful typology of different scales. He largely broke scales down into *Nominal*, which are generally classifications, like biological taxa, film genre or nationality; *Ordinal*, which are sorted scales that don't express a meaningful mathematical relationship, like the colours of the rainbow; and then *Interval* and *Ratio*, which are both numerical scales which either don't have or do have a meaningful zero value respectively, e.g. Degrees Celsius vs Degrees Kelvin.
 
 I'm mainly interested in *Ordinal* scales here. I feel they give the right amount of precision (over Ordinal Scales, which are basically taxonomies, which I also love) while still being sufficiently divorced from plain mathematical truth that we still get a bit of insight into whoever drew them up.
 
