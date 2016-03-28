@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A List of The Best Scales of Measure"
-date:   2016-03-25 19:13:00 +0000
+date:   2016-03-28 01:13:00 +0000
 categories: miscellanea
 sidebar-image: https://images.unsplash.com/photo-1422157245273-e08b638b4b00?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=d7778ce0edbb8b9d13212138cedab934
 photo-credit: "Dikaseva - dikaseva.com"
@@ -17,7 +17,7 @@ Stanley Stevens published a paper called [On the Theory of Scales of Measurement
 
 I'm mainly interested in *Ordinal* scales here. I feel they give the right amount of precision (over Nominal Scales, which are basically taxonomies, although I love those too) while still being sufficiently divorced from plain mathematical truth so that we still get a bit of insight into whoever drew them up.
 
-There are hundreds of such scales. Inclusion on this list is generally because the scales are sort of neat as a way of thinking about something from daily life[1], and also allow us to peak into the minds of their namesakes.
+There are hundreds of such scales. Inclusion on this list is generally because the scales are sort of neat as a way of thinking about something from daily life<a href="#1"  name="to1">[1]</a>, and also allow us to peak into the minds of their namesakes.
 
 Other people judge scales on all sorts of things, such as precision and [inter-rater reliability](https://en.wikipedia.org/wiki/Inter-rater_reliability). That's not my bag.
 
@@ -58,9 +58,9 @@ There are some measures named "Scales" which are actually "Scores". Scores are a
    There's only three ratings: **Green**, which means the restaurant is serving a full menu, **Yellow**, which means there's a limited menu, possibly indicating "there may be no power or only power from a generator or food supplies may be low", and **Red**, which means that Waffle House is no longer serving, so basically the world might as well be over.
 
 
-6. **[Scoville Scale](https://en.wikipedia.org/wiki/Scoville_scale)** -- Spiciness[2] of chili peppers
+6. **[Scoville Scale](https://en.wikipedia.org/wiki/Scoville_scale)** -- Spiciness<a href="#2"  name="to2">[2]</a> of chili peppers
 
-    There's several great aspects to this scale. Firstly, it works by a panel of experts being given solutions of the pepper in increasing dilutions of water until they can no longer detect any spiciness. That means that A. there are people who are "expert spiciness detectors" and B. this is basically also a test for when the solution becomes a valid homeopathic[3] cure for spiciness.
+    There's several great aspects to this scale. Firstly, it works by a panel of experts being given solutions of the pepper in increasing dilutions of water until they can no longer detect any spiciness. That means that A. there are people who are "expert spiciness detectors" and B. this is basically also a test for when the solution becomes a valid homeopathic<a href="#3" name="to3">[3]</a> cure for spiciness.
 
     Secondly, there's the eye-watering difference up the scale. Jalapeño peppers, which sorta hurt my tongue and make me hiccup like nobody's business, are rated at 3,500 Scovilles. Then there's the world's hottest chilies, the "Carolina Reaper", which are rated at 2,200,000. That means that if you had to drink a whole pint of blended Jalapeños, or a pint of water with 10 drops of Carolina Reaper mixed in, you should go for the Jalapeños mess. At least then you look more macho than the guy whose eyes are streaming as he drinks his innocent but deadly glass of transparent death.
 
@@ -113,11 +113,14 @@ There are some measures named "Scales" which are actually "Scores". Scores are a
 
     I feel this scale has real potential for all sorts of one-upmanship: "My trouble with in-laws (29) and sexual difficulties (39) trump your tax Fraud (11) and losing your leg (53)".
 
+<br>
 
+---
 
+<br>
 
-[1] Yeah, ok – weather counts as daily life, so all the disaster ones count. Your life may, one day, rely on them.
+<a name="1"></a>[1] Yeah, ok – weather counts as daily life, so all the disaster ones count. Your life may, one day, rely on them. <a href="#to1">^back</a>
 
-[2] Formally: pungency. Peter piper picked a peck of pungent peppers.
+<a name="2"></a>[2] Formally: pungency. Peter piper picked a peck of pungent peppers. <a href="#to2">^back</a>
 
-[3] Which would be great, except water actually spreads the capsinoids which cause the burning, whereas casein in milk is your best bet for quick relief.
+<a name="3"></a>[3] Which would be great, except water actually spreads the capsinoids which cause the burning, whereas casein in milk is your best bet for quick relief. <a href="#to3">^back</a>
