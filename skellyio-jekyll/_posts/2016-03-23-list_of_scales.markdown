@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A List of The Best Scales of Measure"
-date:   2016-03-28 01:13:00 +0000
+date:   2016-03-28 00:10:00 +0000
 categories: miscellanea
 sidebar-image: https://images.unsplash.com/photo-1422157245273-e08b638b4b00?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=d7778ce0edbb8b9d13212138cedab934
 photo-credit: "Dikaseva - dikaseva.com"
