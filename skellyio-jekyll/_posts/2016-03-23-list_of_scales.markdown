@@ -17,7 +17,7 @@ Stanley Stevens published a paper called [On the Theory of Scales of Measurement
 
 I'm mainly interested in *Ordinal* scales here. I feel they give the right amount of precision (over Nominal Scales, which are basically taxonomies, although I love those too) while still being sufficiently divorced from plain mathematical truth so that we still get a bit of insight into whoever drew them up.
 
-There are hundreds of such scales. Inclusion on this list is generally because the scales are sort of neat as a way of thinking about something from daily life<a href="#1"  name="to1">[1]</a>, and also allow us to peak into the minds of their namesakes.
+There are hundreds of such scales. Inclusion on this list is generally because the scales are sort of neat as a way of thinking about something from daily life<a href="#1" desc="Original, right?" name="to1">[1]</a>, and also allow us to peak into the minds of their namesakes.
 
 Other people judge scales on all sorts of things, such as precision and [inter-rater reliability](https://en.wikipedia.org/wiki/Inter-rater_reliability). That's not my bag.
 

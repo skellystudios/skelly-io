@@ -11,3 +11,4 @@ This is the Jekyll template and repo for my blog. You should read here instead o
   - Maybe make them all appear a the side of the article when you hover?
 - Think of more categories and actually write some stuff for them
 - Maybe add brief descriptions under each article
+- Visited styling (a:visited)
