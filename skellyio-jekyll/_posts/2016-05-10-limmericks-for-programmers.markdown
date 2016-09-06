@@ -10,8 +10,8 @@ draft: true
 
 
 
-A Haskeller, usually d,  
-Using python was feeling ber,  
+A Haskeller, usually d—,  
+Using python was feeling ber—,  
 "Here's the worst of my gripes:  
 It just won't check my types,  
 And it's `reduce` instead of `foldl`".  
