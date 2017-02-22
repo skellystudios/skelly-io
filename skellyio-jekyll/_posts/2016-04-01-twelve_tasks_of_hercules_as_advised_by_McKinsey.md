@@ -5,7 +5,6 @@ date:   2016-03-28 00:10:00 +0000
 categories: miscellanea
 sidebar-image: https://images.unsplash.com/photo-1447014421976-7fec21d26d86?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=38b45c65f964200396720958a5f656f0
 photo-credit: "Dikaseva - dikaseva.com"
-hide: true
 ---
 
 # Overview
@@ -52,13 +51,17 @@ Given that India is rising as a massive global market, we do not recommend any d
 Our agricultural experts point out given that these have been specially bred to eat human flesh, Diomedes Inc. may find themselves with a PR nightmare on their hands, and may be willing to sell off the toxic asset for much less than market value.
 
 ### 9. Retrieve the Belt of Hippolyta
-Good chance for a merger
+
+We believe that this may be an excellent opportunity for the client to perform a strategic matrimonial merger to unlock this asset category.
 
 ### 10. Obtain the Cattle of Geryon
-Some sort of options market
+
+As the transport and storage costs of these commodities is enormous, we would direct the client to consider instead cattle-based derivatives such as options or even exchange-traded funds which could give the requisite exposure to a wide variety of mythical grazing animals.
 
 ### 11. Obtain the Apples of the Hesperides
-Low hanging fruit joke
+
+Although there the eventual goal will be to procure the high-value but difficult "golden" varients, the client should first consider a full cost benefit analysis and aim first for the low-hanging fruit.  
 
 ### 12. Capture Cerberus
-Hades is actually another McKinsey client, so we will be happy to arrange a mutual exchange.. for a fee
+
+As luck would have it, Hades is actually another McKinsey client. We will be happy to arrange and facilitate a mutual exchange program... for a fee, of course.
