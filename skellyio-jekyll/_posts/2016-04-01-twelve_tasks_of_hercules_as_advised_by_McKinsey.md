@@ -10,37 +10,46 @@ hide: true
 
 # Overview
 
-We were engaged by The Client with difficulty fulfilling current contractual obligations. [ MORE ]
+We were engaged by a client with difficulty fulfilling current contractual obligations. The client has entered into an agreement with arduous penalty clauses that are unfeasible given the client's current deployment of resources. Below are our recommendations for how best to utilize the firm's many decades of experience.  
 
 # Recommendations
 
 ### 1. Slay The Nemean Lion
-Current estimate for completion of this task is 30 man-days. McKinsey recommends augmenting the client's current resource (1 man, ) with appropriate contract resource. Given sufficient time for on-boarding, team building exercises and a plenary debrief, post-mortem; we estimate that penetration could be accomplished by a team of 10 McKinsey-approved hunting consultants in under 20 days (plus expenses).
+
+Current estimate for completion of this task is 30 man-days. McKinsey recommends augmenting the client's current resource (1 man, demigod) with appropriate contract resource. Given sufficient time for on-boarding, team building exercises and a plenary debrief, post-mortem; we estimate that penetration could be accomplished by a team of 10 McKinsey-approved hunting consultants in under 20 days (plus expenses).
 
 
 ### 2. Slay the Many Headed Hydra
+
 Industry experts warn that Hydra is on the cusp of rapid expansion, as each severed head is replaced by 2 new ones, leading to exponential, hockey-stick growth. We therefore advise the Client to continue the plan of severing all and any current cranial appendages, and re-engaging McKinsey Consulting on separate projects to consult on further cutting of any subsequent heads that may arise.
 
 ### 3. Catch the Ceryneian Hind, Which Is As fast as Wind
+
 Attempting to catch up with established competition not advised. Instead, should do a SWOT analysis to find correct niche in market.
 
 ### 4. Catch the Erymanthian Boar
+
 Given the religious sensitivities around the consumption of Pork by followers of many large players in the religion market, The Firm recommends that The Client should find a Halaal and Kosher alternative for this task.
 
 ### 5. Clean out the Augean Stables
-An unresolved budgetary allocation dispute has meant that it is unclear whether the mandate for maintenance of the stable site lies with the Facilities Management Department or with the Sanitation Department. The firm believes that there is little chance for [ TODO ]
 
-The Facilities Management Department of Augeas have the mandate to maintain sanitation in and around the Stables site, however due to an unresolved budgetary allocation dispute. Speak to facilities management [**talk of the corporate structure**]. Maybe reshuffle the entire facility so that HR are in the stables.
+An unresolved budgetary allocation dispute has meant that it is unclear whether the responsibility for maintenance of the stable site lies with the Facilities Management Department or with the Sanitation Department.
+
+The Facilities Management Department of Augeas have the mandate to maintain a conducive working department in and around the Stables site, however contend that because the issue at hand is a scatalogical one, it lies with the Sanitation Department. Attempts to mediate between the Chief Sanitation Officer and Facilities Management Director have been blocked by HR. We recommend reshuffling the entire facility so that HR are in the stables.
+
+// The firm believes that there is little chance for
 
 ### 6. Defeat the Stymphalian Birds
-As the task is only to defeat them, recommend muscling out the market
+
+Our contractual experts have advised that as the wording of this task does not define the word "defeat" clearly, this could be best achieved by gaining market dominance in their sector.
 
 ### 7. Capture the Cretan Bull
-India is a massive global market, so bad to take on the bull.
-OR wall street.
+
+Given that India is rising as a massive global market, we do not recommend any direct assault on a sacred bull.
 
 ### 8. Capture the Flesh-eating Mares of Diomedes
-Trained to eat flesh by their owner => PR nightmare on his hands
+
+Our agricultural experts point out given that these have been specially bred to eat human flesh, Diomedes Inc. may find themselves with a PR nightmare on their hands, and may be willing to sell off the toxic asset for much less than market value.
 
 ### 9. Retrieve the Belt of Hippolyta
 Good chance for a merger
