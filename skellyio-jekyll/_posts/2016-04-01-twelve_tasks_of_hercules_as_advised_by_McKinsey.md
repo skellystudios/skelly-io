@@ -15,7 +15,7 @@ We were engaged by The Client with difficulty fulfilling current contractual obl
 # Recommendations
 
 ### 1. Slay The Nemean Lion
-Current estimate for completion of this task is 30 man-days. McKinsey recommends augmenting the client's current resource (1 man) with appropriate contract resource. Given sufficient time for on-boarding, team building exercises and a plenary debrief, post-mortem; we estimate that penetration could be accomplished by a team of 10 McKinsey-approved hunting consultants in under 20 days (plus expenses).
+Current estimate for completion of this task is 30 man-days. McKinsey recommends augmenting the client's current resource (1 man, ) with appropriate contract resource. Given sufficient time for on-boarding, team building exercises and a plenary debrief, post-mortem; we estimate that penetration could be accomplished by a team of 10 McKinsey-approved hunting consultants in under 20 days (plus expenses).
 
 
 ### 2. Slay the Many Headed Hydra
@@ -25,7 +25,7 @@ Industry experts warn that Hydra is on the cusp of rapid expansion, as each seve
 Attempting to catch up with established competition not advised. Instead, should do a SWOT analysis to find correct niche in market.
 
 ### 4. Catch the Erymanthian Boar
-Given the religious sensitivities around the consumption of Pork by followers of many large players in the religion sector, The Firm recommends that The Client should find a Halaal and Kosher alternative for this task.
+Given the religious sensitivities around the consumption of Pork by followers of many large players in the religion market, The Firm recommends that The Client should find a Halaal and Kosher alternative for this task.
 
 ### 5. Clean out the Augean Stables
 An unresolved budgetary allocation dispute has meant that it is unclear whether the mandate for maintenance of the stable site lies with the Facilities Management Department or with the Sanitation Department. The firm believes that there is little chance for [ TODO ]
