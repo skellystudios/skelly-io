@@ -36,7 +36,6 @@ An unresolved budgetary allocation dispute has meant that it is unclear whether 
 
 The Facilities Management Department of Augeas have the mandate to maintain a conducive working department in and around the Stables site, however contend that because the issue at hand is a scatalogical one, it lies with the Sanitation Department. Attempts to mediate between the Chief Sanitation Officer and Facilities Management Director have been blocked by HR. We recommend reshuffling the entire facility so that HR are in the stables.
 
-// The firm believes that there is little chance for
 
 ### 6. Defeat the Stymphalian Birds
 
@@ -60,7 +59,7 @@ As the transport and storage costs of these commodities is enormous, we would di
 
 ### 11. Obtain the Apples of the Hesperides
 
-Although there the eventual goal will be to procure the high-value but difficult "golden" varients, the client should first consider a full cost benefit analysis and aim first for the low-hanging fruit.  
+Although there the eventual goal will be to procure the high-value but difficult "golden" variants, the client should first consider a full cost benefit analysis and aim first for the low-hanging fruit.  
 
 ### 12. Capture Cerberus
 
