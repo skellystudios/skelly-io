@@ -1,0 +1,17 @@
+---
+layout: post
+title:  On Dvorak
+date:   2017-08-06 00:00:00 +0000
+categories: thoughts
+sidebar-image: /images/matt-palmer.jpg
+photo-credit: "Photo by Matt Palmer on Unsplash - https://unsplash.com/@visualworld"
+draft: false
+---
+
+**Proposition 1:**
+
+> Dvorak seems to offer plenty of advantages unless you rely on things like having Vim keybindings in muscle-memory
+
+**Proposition 2:**
+
+> Everyone who switches to Dvorak is the sort of person who has Vim keybindings in muscle-memory

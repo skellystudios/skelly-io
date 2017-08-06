@@ -2,16 +2,17 @@
 layout: post
 title:  Limericks for programmers
 date:   2016-03-28 00:10:00 +0000
-categories: miscellanea
-sidebar-image: https://images.unsplash.com/photo-1469920783271-4ee08a94d42d?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=38b45c65f964200396720958a5f656f0
-photo-credit: "Patrick Tomasso - patricktomasso.com"
+categories: technology
+sidebar-image: /images/bear.jpg
+photo-credit: "Matthias Goetzke - https://unsplash.com/@mgoetzke"
 draft: true
 ---
 
 
-
-A Haskeller, usually d—,  
+Haskeller, usually d—,  
 Using python was feeling ber—,  
 "Here's the worst of my gripes:  
 It just won't check my types,  
 And it's `reduce` instead of `foldl`".  
+
+[To be continued]
