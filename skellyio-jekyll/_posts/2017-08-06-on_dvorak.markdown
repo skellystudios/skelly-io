@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  On Dvorak
-date:   2017-08-06 00:00:00 +0000
+title: On Dvorak
+date: 2017-08-06 00:00:00 +0000
 categories: thoughts
 sidebar-image: /images/matt-palmer.jpg
 photo-credit: "Photo by Matt Palmer on Unsplash - https://unsplash.com/@visualworld"
 draft: false
 ---
+
+# A syllogism
 
 **Proposition 1:**
 
@@ -15,3 +17,7 @@ draft: false
 **Proposition 2:**
 
 > Everyone who switches to Dvorak is the sort of person who has Vim keybindings in muscle-memory
+
+**Conclusion:**
+
+> Don't Dvorak
