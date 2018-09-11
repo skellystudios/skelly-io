@@ -28,4 +28,4 @@ If you happen to be halfway through writing some sort of hard-boiled detective n
 > "He committed his code, and to never writing Java again."
 
 
-All I ask is 10% of your sales, and your forgiveness.~
+All I ask is 10% of your sales, and your forgiveness.
