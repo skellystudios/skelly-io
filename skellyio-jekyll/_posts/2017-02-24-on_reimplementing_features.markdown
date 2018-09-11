@@ -10,4 +10,4 @@ draft: false
 
 > "No man implements the same requirements twice, because they are no longer the same requirements, and he is no longer the same man"
 
-— Heraclitus, on changing requirements
+— Heraclitus, on reimplementing features
